@@ -1,4 +1,5 @@
 # 2% Milk keyboard
+![2%Milk](https://i.imgur.com/Ud96uXn.png)
 ### Build Guide
 1) Put switches in case 
 2) Solder headers to milk PCB
