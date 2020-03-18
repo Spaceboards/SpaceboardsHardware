@@ -8,8 +8,8 @@ assignees: ''
 ---
 
 ## Issue is with:
-- [ ] LongBoi
-- [ ] Planckake
+<!-- The name of the board that the issue is with if applicable -->
+
 
 ## The file that has issues:
 - [ ] Documentation
