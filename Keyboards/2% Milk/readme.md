@@ -1,6 +1,6 @@
 # 2% Milk keyboard
 ![2%Milk](https://i.imgur.com/Ud96uXn.png)
-### [Build Guide](https://rionlion100.github.io/2milkbuild)
+### [Build Guide](https://spaceboards.xyz/2milkbuild)
 
 
 ### Credits
