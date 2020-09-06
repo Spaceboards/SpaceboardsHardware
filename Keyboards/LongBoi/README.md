@@ -5,6 +5,4 @@ a 3x21 ortho board
 - No Case for this keyboard currently
 - No firmware in QMK for this keyboard
 
-![ongboi pics](https://i.imgur.com/J0QTNH1.png)
-
-Shared under `CC BY-SA 4.0`
+![Longboi Pics](https://i.imgur.com/J0QTNH1.png)
